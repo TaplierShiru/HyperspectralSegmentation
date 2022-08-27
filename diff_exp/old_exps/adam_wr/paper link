@@ -1,0 +1,7 @@
+https://openreview.net/pdf?id=rk6qdGgCZ
+
+torch already have weight decay in adam
+Link: https://pytorch.org/docs/stable/generated/torch.optim.Adam.html#torch.optim.Adam
+
+Cosine with restarts
+Link: https://pytorch.org/docs/stable/generated/torch.optim.lr_scheduler.CosineAnnealingWarmRestarts.html
